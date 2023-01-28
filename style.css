@@ -1,0 +1,22 @@
+.formBlock {
+  margin-top: 100px;
+  background: url(./1646965730_26-abrakadabra-fun-p-oboi-na-aipad-estetika-bezhevogo-33.jpg);
+  border: 2px solid rgb(133, 133, 133);
+  border-radius: 20px;
+}
+
+.formBlock > p {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 21px;
+  font-weight: 600;
+}
+
+.formInput {
+  margin-top: 25px;
+}
+
+.btnSign {
+  width: 100px;
+  margin: 30px 45%;
+}/*# sourceMappingURL=style.css.map */
